@@ -13,7 +13,7 @@
 
 Clone the repository
 
-    git clone https://github.com/lujakob/nestjs-realworld-example-app.git
+    git clone https://github.com/goldmicky1210/nest-backend.git
 
 Switch to the repo folder
 
